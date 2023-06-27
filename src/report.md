@@ -18,5 +18,6 @@
 
 `grep adm /etc/group`
 ![task_2](./images/task_2/image_2.PNG)
+
 `cat /etc/passwd`
 ![task_2](./images/task_2/image_3.PNG)
