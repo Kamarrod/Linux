@@ -21,3 +21,17 @@
 
 `cat /etc/passwd`
 ![task_2](./images/task_2/image_3.PNG)
+
+## Задание 3
+
+1. Задать название машины вида user-1, также сразу виден вывод ifconfig.
+   `sudo hostname user-1`
+   ![task_3](./images/task_3.image0.png)
+
+2. Установить временную зону, соответствующую вашему текущему местоположению.
+   `timedatectl`
+   ![task_3](./images/task_3.image2.png)
+
+3. Вывести названия сетевых интерфейсов с помощью консольной команды.
+   'ifconfig'
+   ![task_3](./images/task_3.image3.png)
