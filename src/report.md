@@ -12,11 +12,11 @@
 
 1.  Скриншот вызова команды, для создания пользователя.
 
-![task_2](./images/task_2/image1.PNG)
+![task_2](./images/task_2/image_1.PNG)
 
 2.  Новый пользователь должен быть в выводе команды, также в какой группе находится новый пользователь
-    `grep adm /etc/group`
 
-![task_2](./images/task_2/image2.PNG)
+`grep adm /etc/group`
+![task_2](./images/task_2/image_2.PNG)
 `cat /etc/passwd`
-![task_2](./images/task_2/image3.PNG)
+![task_2](./images/task_2/image_3.PNG)
