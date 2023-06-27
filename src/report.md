@@ -6,7 +6,7 @@
 
 3.  Скриншот с выводом команды.
 
-![task_1](/images/task_1/image1.PNG)
+![task_1](./images/task_1/image1.PNG)
 
 ## Задание 2
 
